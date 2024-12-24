@@ -1,0 +1,15 @@
+cd inventory-service
+
+mvn clean install -DskipTests
+
+docker build -t inventory-service .
+
+docker run -d -p 8082:8082 inventory-service
+
+/inventory/stock
+
+mvn clean install -DskipTests
+
+docker build -t order-service .
+
+docker run -d -p 8083:8083 order-service
