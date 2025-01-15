@@ -1,0 +1,4 @@
+com/talentica/workshop/inventory/model/Ingredient.class
+com/talentica/workshop/inventory/InventoryServiceApplication.class
+com/talentica/workshop/inventory/service/InventoryService.class
+com/talentica/workshop/inventory/controller/InventoryController.class

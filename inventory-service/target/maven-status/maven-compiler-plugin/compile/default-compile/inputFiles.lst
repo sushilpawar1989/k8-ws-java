@@ -1,0 +1,4 @@
+/workspaces/k8-ws-java/inventory-service/src/main/java/com/talentica/workshop/inventory/InventoryServiceApplication.java
+/workspaces/k8-ws-java/inventory-service/src/main/java/com/talentica/workshop/inventory/controller/InventoryController.java
+/workspaces/k8-ws-java/inventory-service/src/main/java/com/talentica/workshop/inventory/model/Ingredient.java
+/workspaces/k8-ws-java/inventory-service/src/main/java/com/talentica/workshop/inventory/service/InventoryService.java

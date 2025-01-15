@@ -1,0 +1,4 @@
+/workspaces/k8-ws-java/order-service/src/main/java/com/talentica/workshop/order/OrderServiceApplication.java
+/workspaces/k8-ws-java/order-service/src/main/java/com/talentica/workshop/order/controller/OrderController.java
+/workspaces/k8-ws-java/order-service/src/main/java/com/talentica/workshop/order/model/Order.java
+/workspaces/k8-ws-java/order-service/src/main/java/com/talentica/workshop/order/service/OrderService.java

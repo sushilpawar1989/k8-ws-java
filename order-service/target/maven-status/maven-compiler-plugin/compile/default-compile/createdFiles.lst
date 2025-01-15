@@ -1,0 +1,4 @@
+com/talentica/workshop/order/service/OrderService.class
+com/talentica/workshop/order/controller/OrderController.class
+com/talentica/workshop/order/model/Order.class
+com/talentica/workshop/order/OrderServiceApplication.class
